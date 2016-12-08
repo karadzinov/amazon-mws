@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>104-9133641</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>104-9133641</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-4273810</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+					<ItemID>1</ItemID>
+					<MfgCode>APK</MfgCode>
+					<PartNum>C1082</PartNum>
+					<Qty>1</Qty>
+					<QtyOrder>1</QtyOrder>
+					<SellPrice>140.43</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Gregorio Chavez</CompanyName>
+				<LastName></LastName>
+				<Street>2529 S RITA WAY</Street>
+				<City>SANTA ANA</City>
+				<State>CA</State>
+				<ZipCode>92704-5715</ZipCode>
+				<Phone>7142770070</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<SBCPartOrderRequest>
+		<TrackingInfo>
+			<TrackNum>105-6454493</TrackNum>
+		</TrackingInfo>
+		<BuyerInfo>
+			<CustomerID>APD1001</CustomerID>
+			<Password>9265</Password>
+		</BuyerInfo>
+		<SellingStore>1</SellingStore>
+		<PONum>105-6454493</PONum>
+		<CancelOrderFlag>N</CancelOrderFlag>
+		<JobNumber>-5324233</JobNumber>
+		<UseSellPrice>Y</UseSellPrice>
+		<Items>
+			<Item>
+				<ItemID>1</ItemID>
+				<MfgCode>APK</MfgCode>
+				<PartNum>C1496P</PartNum>
+				<Qty>1</Qty>
+				<QtyOrder>1</QtyOrder>
+				<SellPrice>65.35</SellPrice>
+			</Item>
+		</Items>
+		<SoldTo>
+			<CompanyName>VELESTRUMF</CompanyName>
+			<Street>501 CRANBROOK</Street>
+			<City>LOCKPORT</City>
+			<State>IL</State>
+			<ZipCode>60333</ZipCode>
+			<Phone>6302061166</Phone>
+		</SoldTo>
+		<ShipTo>
+			<CompanyName>Troy Ramsey</CompanyName>
+			<LastName></LastName>
+			<Street>689 S MCCOY DR</Street>
+			<City>PUEBLO</City>
+			<State>co</State>
+			<ZipCode>81007-1720</ZipCode>
+			<Phone>719-201-3235</Phone>
+			<ResidentialDelivery>Y</ResidentialDelivery>
+		</ShipTo>
+		<ShipVia>F</ShipVia>
+	</SBCPartOrderRequest>
+	

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>108-7796747</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>108-7796747</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-5801041</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>APK</MfgCode>
+						<PartNum>J30036R</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>184.84</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>darrell austria</CompanyName>
+				<LastName></LastName>
+				<Street>1548 OLYMPIC ST</Street>
+				<City>SIMI VALLEY</City>
+				<State>CA</State>
+				<ZipCode>93063-3137</ZipCode>
+				<Phone>8054047412</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

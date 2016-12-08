@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>108-5585031</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>108-5585031</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-1475418</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>APK</MfgCode>
+						<PartNum>G22466P</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>69.47</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Luke Lehman</CompanyName>
+				<LastName></LastName>
+				<Street>2115 FOOTHILL RANCH DR</Street>
+				<City>TRACY</City>
+				<State>ca</State>
+				<ZipCode>95377-9273</ZipCode>
+				<Phone>2094078628</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

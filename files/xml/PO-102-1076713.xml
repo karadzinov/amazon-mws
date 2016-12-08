@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>102-1076713</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>error</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>102-1076713</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-3419464</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>BGI</MfgCode>
+						<PartNum>5BLACK</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>6.99</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>LION MOELIONO</CompanyName>
+				<LastName></LastName>
+				<Street>10231 BRIGHTON CIRCLE</Street>
+				<City>TWINSBURG</City>
+				<State>OH</State>
+				<ZipCode>44087</ZipCode>
+				<Phone>330-9634197</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

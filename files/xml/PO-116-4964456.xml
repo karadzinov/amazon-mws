@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>116-4964456</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>116-4964456</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-7685010</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>APK</MfgCode>
+						<PartNum>E6676</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>233.65</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>VE-251898 GUSTAVO JOSE HERNANDEZ DE LEON</CompanyName>
+				<LastName> MEDLEY FL33178-1044</LastName>
+				<Street>11800 NW 101ST RD</Street>
+				<City>MIAMI</City>
+				<State>FL</State>
+				<ZipCode>33178-1044</ZipCode>
+				<Phone>3055009199</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>102-0610631-1241801</AmazonOrderID>
+<AmazonSessionID>102-0610631-1241801</AmazonSessionID>
+<OrderDate>2014-08-19T12:07:52-07:00</OrderDate>
+<OrderPostedDate>2014-08-19T12:07:52-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>l5v4f0sqsrwptq5@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Jose Gamez</BuyerName>
+<BuyerPhoneNumber>3235947317</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Jose Gamez</Name>
+<AddressFieldOne>930 1/4 W. Gage Ave</AddressFieldOne>
+<City>Los Angeles</City>
+<StateOrRegion>California</StateOrRegion>
+<PostalCode>90044</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>323 305 4273</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>31447078898722</AmazonOrderItemCode>
+<SKU>APKJ29972R</SKU>
+<Title>Approved Performance J29972R - [Front Pair] Premium Performance Drilled and Slotted Disc Brake Rotors</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">61.08</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-7.33</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>104-5328092</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>104-5328092</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-7809843</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+					<ItemID>1</ItemID>
+					<MfgCode>APK</MfgCode>
+					<PartNum>J29662</PartNum>
+					<Qty>1</Qty>
+					<QtyOrder>1</QtyOrder>
+					<SellPrice>134.03</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Scott Davis</CompanyName>
+				<LastName></LastName>
+				<Street>1004 CEDAR LAKE DR</Street>
+				<City>TAMPA</City>
+				<State>fl</State>
+				<ZipCode>33612-3320</ZipCode>
+				<Phone>813-210-1395</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

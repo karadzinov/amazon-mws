@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>109-8048605</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1007-1</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>109-8048605</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-9445839</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+					<ItemID>1</ItemID>
+					<MfgCode>DMB</MfgCode>
+					<PartNum>G22476BC</PartNum>
+					<Qty>1</Qty>
+					<QtyOrder>1</QtyOrder>
+					<SellPrice>157.75</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Terri Budris</CompanyName>
+				<LastName> DR</LastName>
+				<Street>N4239 HICKORY</Street>
+				<City>COLUMBUS</City>
+				<State>wi</State>
+				<ZipCode>53925-8965</ZipCode>
+				<Phone>608-345-5008</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

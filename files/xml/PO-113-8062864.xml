@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>113-8062864</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>113-8062864</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-9318628</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>APK</MfgCode>
+						<PartNum>E11882</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>115.71</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Art Dahlke</CompanyName>
+				<LastName></LastName>
+				<Street>7322 GLENCOE DR</Street>
+				<City>CEDARBURG</City>
+				<State>WI</State>
+				<ZipCode>53012-8837</ZipCode>
+				<Phone>262-993-9690</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

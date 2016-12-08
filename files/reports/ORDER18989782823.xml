@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>002-1255075-6036237</AmazonOrderID>
+<AmazonSessionID>002-1255075-6036237</AmazonSessionID>
+<OrderDate>2014-08-22T05:07:41-07:00</OrderDate>
+<OrderPostedDate>2014-08-22T05:07:41-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>w0fp1lcj7whnymq@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>FELIX CARTY</BuyerName>
+<BuyerPhoneNumber>6317481253</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>FELIX CARTY</Name>
+<AddressFieldOne>233 WILEY ST</AddressFieldOne>
+<City>BRENTWOOD</City>
+<StateOrRegion>NY</StateOrRegion>
+<PostalCode>11717-8003</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>6317481253</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>36867369446074</AmazonOrderItemCode>
+<SKU>APKJ27012</SKU>
+<Title>Approved Performance J27012 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">107.06</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-12.85</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+<Message>
+<MessageID>2</MessageID>
+<OrderReport>
+<AmazonOrderID>105-6278835-2897844</AmazonOrderID>
+<AmazonSessionID>105-6278835-2897844</AmazonSessionID>
+<OrderDate>2014-08-22T05:17:11-07:00</OrderDate>
+<OrderPostedDate>2014-08-22T05:17:11-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>hqjlfmly8m390yn@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>David Scott Cosper</BuyerName>
+<BuyerPhoneNumber>8178796376</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>David Scott Cosper</Name>
+<AddressFieldOne>6226 Forest Acre Circle South</AddressFieldOne>
+<City>Fort Worth</City>
+<StateOrRegion>Tx</StateOrRegion>
+<PostalCode>76140</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>8178796376</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>08359314151306</AmazonOrderItemCode>
+<SKU>APKJ26626</SKU>
+<Title>Approved Performance J26626 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">172.78</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-20.73</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>110-2468659</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>110-2468659</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-0349825</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+					<ItemID>1</ItemID>
+					<MfgCode>APK</MfgCode>
+					<PartNum>C3296P</PartNum>
+					<Qty>1</Qty>
+					<QtyOrder>1</QtyOrder>
+					<SellPrice>77.52</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>jeffrey correira</CompanyName>
+				<LastName></LastName>
+				<Street>102 FOOTE ST</Street>
+				<City>FALL RIVER</City>
+				<State>ma</State>
+				<ZipCode>02724-1334</ZipCode>
+				<Phone>774-627-7334</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

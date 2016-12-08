@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>112-1703427-5109842</AmazonOrderID>
+<AmazonSessionID>112-1703427-5109842</AmazonSessionID>
+<OrderDate>2014-10-07T17:02:59-07:00</OrderDate>
+<OrderPostedDate>2014-10-07T17:02:59-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>f2l81hpp4rvfzcl@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Kevin hughes</BuyerName>
+<BuyerPhoneNumber>2089480257</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Kevin hughes</Name>
+<AddressFieldOne>3945 Reed St</AddressFieldOne>
+<City>Garden City</City>
+<StateOrRegion>Idaho</StateOrRegion>
+<PostalCode>83714</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>2089480257</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>25465566747042</AmazonOrderItemCode>
+<SKU>APEG21712E</SKU>
+<Title>Approved Performance G21712 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Ceramic Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">116.55</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-13.99</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

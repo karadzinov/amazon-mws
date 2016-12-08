@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>111-6323557-1166660</AmazonOrderID>
+<AmazonSessionID>111-6323557-1166660</AmazonSessionID>
+<OrderDate>2014-10-18T13:08:56-07:00</OrderDate>
+<OrderPostedDate>2014-10-18T13:08:56-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>kz85zf7d88l2166@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Benjamin D Bauknecht</BuyerName>
+<BuyerPhoneNumber>7346528796</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Benjamin D Bauknecht</Name>
+<AddressFieldOne>9186 Village Meadows Dr</AddressFieldOne>
+<City>temperance</City>
+<StateOrRegion>MI</StateOrRegion>
+<PostalCode>48182</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>7346528796</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>62646173814610</AmazonOrderItemCode>
+<SKU>APKE11166</SKU>
+<Title>Approved Performance E11166 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">273.23</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-32.79</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-20T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-21T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-23T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-28T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+<Message>
+<MessageID>2</MessageID>
+<OrderReport>
+<AmazonOrderID>115-5428344-3311401</AmazonOrderID>
+<AmazonSessionID>115-5428344-3311401</AmazonSessionID>
+<OrderDate>2014-10-18T15:55:33-07:00</OrderDate>
+<OrderPostedDate>2014-10-18T15:55:33-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>s3n7h4lsg3p5yjk@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Chih-Yuan Chen</BuyerName>
+<BuyerPhoneNumber>5623958152</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>TONY CHEN</Name>
+<AddressFieldOne>11824 HAMDEN PL</AddressFieldOne>
+<City>SANTA FE SPRINGS</City>
+<StateOrRegion>CA</StateOrRegion>
+<PostalCode>90670-3214</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>(562)395-8152</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>15731200682754</AmazonOrderItemCode>
+<SKU>BGWIP5</SKU>
+<Title>Body Glove 9299203 Diamond Cell Phone Case for Apple iPhone 5 - 1 Pack - Retail Packaging - White/Charcoal</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">4.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-1.00</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-20T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-20T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-23T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-27T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+<Message>
+<MessageID>3</MessageID>
+<OrderReport>
+<AmazonOrderID>113-5401722-1172254</AmazonOrderID>
+<AmazonSessionID>113-5401722-1172254</AmazonSessionID>
+<OrderDate>2014-10-18T14:13:47-07:00</OrderDate>
+<OrderPostedDate>2014-10-18T14:13:47-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>tp2cgzy7h92sq3d@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>MIKE HILLEMANN</BuyerName>
+<BuyerPhoneNumber>2152950854</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>michael hillemann</Name>
+<AddressFieldOne>3 SANNER DR</AddressFieldOne>
+<City>MORRISVILLE</City>
+<StateOrRegion>PA</StateOrRegion>
+<PostalCode>19067-4818</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>2152950854</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>57686835262386</AmazonOrderItemCode>
+<SKU>APKE11882</SKU>
+<Title>Approved Performance E11882 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">115.71</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-13.89</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-20T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-21T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-23T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-28T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

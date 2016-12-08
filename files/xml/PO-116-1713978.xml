@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>116-1713978</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1001</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>116-1713978</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-9511400</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+					<ItemID>1</ItemID>
+					<MfgCode>APK</MfgCode>
+					<PartNum>E11082R</PartNum>
+					<Qty>1</Qty>
+					<QtyOrder>1</QtyOrder>
+					<SellPrice>101.49</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>thomas f rompies</CompanyName>
+				<LastName></LastName>
+				<Street>10156 lynx lane</Street>
+				<City>littleton</City>
+				<State>co</State>
+				<ZipCode>80125</ZipCode>
+				<Phone>303-829-0703</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

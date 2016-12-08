@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<SBCPartOrderRequest>
+		<TrackingInfo>
+			<TrackNum>111-4249367</TrackNum>
+		</TrackingInfo>
+		<BuyerInfo>
+			<CustomerID>APD1001</CustomerID>
+			<Password>9265</Password>
+		</BuyerInfo>
+		<SellingStore>1</SellingStore>
+		<PONum>111-4249367</PONum>
+		<CancelOrderFlag>N</CancelOrderFlag>
+		<JobNumber>-9122622</JobNumber>
+		<UseSellPrice>Y</UseSellPrice>
+		<Items>
+			<Item>
+				<ItemID>1</ItemID>
+				<MfgCode>APK</MfgCode>
+				<PartNum>J27242</PartNum>
+				<Qty>1</Qty>
+				<QtyOrder>1</QtyOrder>
+				<SellPrice>101.71</SellPrice>
+			</Item>
+		</Items>
+		<SoldTo>
+			<CompanyName>VELESTRUMF</CompanyName>
+			<Street>501 CRANBROOK</Street>
+			<City>LOCKPORT</City>
+			<State>IL</State>
+			<ZipCode>60333</ZipCode>
+			<Phone>6302061166</Phone>
+		</SoldTo>
+		<ShipTo>
+			<CompanyName>johnny tenesaca</CompanyName>
+			<LastName></LastName>
+			<Street>27 ROWAN ST APT 1</Street>
+			<City>DANBURY</City>
+			<State>ct</State>
+			<ZipCode>06810-5655</ZipCode>
+			<Phone>914-299-6045</Phone>
+			<ResidentialDelivery>Y</ResidentialDelivery>
+		</ShipTo>
+		<ShipVia>F</ShipVia>
+	</SBCPartOrderRequest>
+	

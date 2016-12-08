@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>116-2266334-0242619</AmazonOrderID>
+<AmazonSessionID>116-2266334-0242619</AmazonSessionID>
+<OrderDate>2014-10-06T20:08:57-07:00</OrderDate>
+<OrderPostedDate>2014-10-06T20:08:57-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>382g0m9sdfg8s26@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Christopher Solomon</BuyerName>
+<BuyerPhoneNumber>8165200597</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Christopher Solomon</Name>
+<AddressFieldOne>14304 E 96TH ST</AddressFieldOne>
+<City>KANSAS CITY</City>
+<StateOrRegion>MISSOURI</StateOrRegion>
+<PostalCode>64139-1148</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>8165200597</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>26425373712770</AmazonOrderItemCode>
+<SKU>APKG22366</SKU>
+<Title>Approved Performance G22366 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">256.21</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-30.75</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

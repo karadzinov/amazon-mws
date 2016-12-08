@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>109-1099669-7617814</AmazonOrderID>
+<AmazonSessionID>109-1099669-7617814</AmazonSessionID>
+<OrderDate>2014-10-17T06:17:31-07:00</OrderDate>
+<OrderPostedDate>2014-10-17T06:17:31-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>wn9llf2h83q98rd@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Kayla Minckler</BuyerName>
+<BuyerPhoneNumber>845-430-5224</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Kayla Minckler</Name>
+<AddressFieldOne>148 HIGHLAND AVE</AddressFieldOne>
+<City>MARLBORO</City>
+<StateOrRegion>NY</StateOrRegion>
+<PostalCode>12542-6304</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>845-430-5224</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>50558050416690</AmazonOrderItemCode>
+<SKU>APKJ32402</SKU>
+<Title>Approved Performance J32402 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">116.84</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-14.02</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-20T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-21T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-23T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-28T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+<Message>
+<MessageID>2</MessageID>
+<OrderReport>
+<AmazonOrderID>107-6843897-4054606</AmazonOrderID>
+<AmazonSessionID>107-6843897-4054606</AmazonSessionID>
+<OrderDate>2014-10-17T06:22:26-07:00</OrderDate>
+<OrderPostedDate>2014-10-17T06:22:26-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>2cpm81nmw8brtzf@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>james agard</BuyerName>
+<BuyerPhoneNumber>860 488 0167</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>james agard</Name>
+<AddressFieldOne>39 High ST</AddressFieldOne>
+<AddressFieldTwo>39 high st</AddressFieldTwo>
+<City>canaan</City>
+<StateOrRegion>ct</StateOrRegion>
+<PostalCode>06018</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>860 488 0167</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>61914680254378</AmazonOrderItemCode>
+<SKU>APKJ33432R</SKU>
+<Title>Approved Performance J33432R - [Front Pair] Premium Performance Drilled and Slotted Disc Brake Rotors</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">112.07</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-13.45</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-20T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-21T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-23T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-28T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

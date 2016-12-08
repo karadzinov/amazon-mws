@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<SBCPartOrderRequest>
+		<TrackingInfo>
+			<TrackNum>111-2453343</TrackNum>
+		</TrackingInfo>
+		<BuyerInfo>
+			<CustomerID>APD1007-1</CustomerID>
+			<Password>9265</Password>
+		</BuyerInfo>
+		<SellingStore>1</SellingStore>
+		<PONum>111-2453343</PONum>
+		<CancelOrderFlag>N</CancelOrderFlag>
+		<JobNumber>-9061063</JobNumber>
+		<UseSellPrice>Y</UseSellPrice>
+		<Items>
+			<Item>
+				<ItemID>1</ItemID>
+				<MfgCode>DMB</MfgCode>
+				<PartNum>E6592BR</PartNum>
+				<Qty>1</Qty>
+				<QtyOrder>1</QtyOrder>
+				<SellPrice>56.14</SellPrice>
+			</Item>
+		</Items>
+		<SoldTo>
+			<CompanyName>VELESTRUMF</CompanyName>
+			<Street>501 CRANBROOK</Street>
+			<City>LOCKPORT</City>
+			<State>IL</State>
+			<ZipCode>60333</ZipCode>
+			<Phone>6302061166</Phone>
+		</SoldTo>
+		<ShipTo>
+			<CompanyName>Phanie Rosales</CompanyName>
+			<LastName></LastName>
+			<Street>1050 BRIDGEPORT ST</Street>
+			<City>ESCONDIDO</City>
+			<State>CA</State>
+			<ZipCode>92027-1529</ZipCode>
+			<Phone>7605327385</Phone>
+			<ResidentialDelivery>Y</ResidentialDelivery>
+		</ShipTo>
+		<ShipVia>F</ShipVia>
+	</SBCPartOrderRequest>
+	

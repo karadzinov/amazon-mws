@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>103-2405642-3462611</AmazonOrderID>
+<AmazonSessionID>103-2405642-3462611</AmazonSessionID>
+<OrderDate>2014-10-14T05:22:16-07:00</OrderDate>
+<OrderPostedDate>2014-10-14T05:22:16-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>z8z5hz66ynhkchp@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>gary kesayan</BuyerName>
+<BuyerPhoneNumber>215-704-9456</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>gary kesayan</Name>
+<AddressFieldOne>6511 RIDGE AVE</AddressFieldOne>
+<City>PHILADELPHIA</City>
+<StateOrRegion>PA</StateOrRegion>
+<PostalCode>19128-2426</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>215-704-9456</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>65192937418698</AmazonOrderItemCode>
+<SKU>APKJ28016P</SKU>
+<Title>Approved Performance J28016P - [Front &amp; Rear] Set of Carbon Fiber Impregnated Brake Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">77.93</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-9.35</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-15T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-16T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-20T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-23T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

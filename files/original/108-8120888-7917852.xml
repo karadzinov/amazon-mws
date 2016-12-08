@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<ErrorResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/"><Error><Type>Sender</Type><Code>InvalidRequest</Code><Message>108-8120888-7917852 failed a validation check: 108-8120888-7917852 is not a valid identifer.</Message><Detail/></Error><RequestID>08642946-5e53-427f-be79-717ac7639ee9</RequestID></ErrorResponse>

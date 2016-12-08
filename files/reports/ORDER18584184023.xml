@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>104-6710799-4492236</AmazonOrderID>
+<AmazonSessionID>104-6710799-4492236</AmazonSessionID>
+<OrderDate>2014-08-04T20:02:53-07:00</OrderDate>
+<OrderPostedDate>2014-08-04T20:02:53-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>t45zrgp0jvj68nm@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Aurant Carcani</BuyerName>
+<BuyerPhoneNumber>8473069784</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Aurant Carcani</Name>
+<AddressFieldOne>17329 W MAPLE LN</AddressFieldOne>
+<City>GURNEE</City>
+<StateOrRegion>IL</StateOrRegion>
+<PostalCode>60031-2764</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>8473069784</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>16961520669962</AmazonOrderItemCode>
+<SKU>APKJ27396</SKU>
+<Title>Approved Performance J27396 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">208.68</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-25.04</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

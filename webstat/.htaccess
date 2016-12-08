@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/amazon.send.mk/webstat"
+AuthUserFile /var/www/send/data/etc/3252230.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

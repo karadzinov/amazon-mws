@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<SBCPartOrderRequest>
+		<TrackingInfo>
+			<TrackNum>104-6470050</TrackNum>
+		</TrackingInfo>
+		<BuyerInfo>
+			<CustomerID>APD1001</CustomerID>
+			<Password>9265</Password>
+		</BuyerInfo>
+		<SellingStore>1</SellingStore>
+		<PONum>104-6470050</PONum>
+		<CancelOrderFlag>N</CancelOrderFlag>
+		<JobNumber>-3997862</JobNumber>
+		<UseSellPrice>Y</UseSellPrice>
+		<Items>
+			<Item>
+		<ItemID>1</ItemID>
+		<MfgCode>APK</MfgCode>
+		<PartNum>C1704</PartNum>
+		<Qty>1</Qty>
+		<QtyOrder>1</QtyOrder>
+		<SellPrice>100.07</SellPrice>
+		<ItemID>2</ItemID>
+		<MfgCode>APK</MfgCode>
+		<PartNum>C1352</PartNum>
+		<Qty>1</Qty>
+		<QtyOrder>1</QtyOrder>
+		<SellPrice>100.35</SellPrice>
+			</Item>
+		</Items>
+		<SoldTo>
+			<CompanyName>VELESTRUMF</CompanyName>
+			<Street>501 CRANBROOK</Street>
+			<City>LOCKPORT</City>
+			<State>IL</State>
+			<ZipCode>60333</ZipCode>
+			<Phone>6302061166</Phone>
+		</SoldTo>
+		<ShipTo>
+			<CompanyName>Steven-Ray Striplin</CompanyName>
+			<LastName></LastName>
+			<Street>68360 HERMOSILLO RD</Street>
+			<City>CATHEDRAL CITY</City>
+			<State>CA</State>
+			<ZipCode>92234-8609</ZipCode>
+			<Phone>7602194947</Phone>
+			<ResidentialDelivery>Y</ResidentialDelivery>
+		</ShipTo>
+		<ShipVia>F</ShipVia>
+	</SBCPartOrderRequest>
+	

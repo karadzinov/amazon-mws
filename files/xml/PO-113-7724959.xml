@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<SBCPartOrderRequest>
+		<TrackingInfo>
+			<TrackNum>113-7724959</TrackNum>
+		</TrackingInfo>
+		<BuyerInfo>
+			<CustomerID>APD1001</CustomerID>
+			<Password>9265</Password>
+		</BuyerInfo>
+		<SellingStore>1</SellingStore>
+		<PONum>113-7724959</PONum>
+		<CancelOrderFlag>N</CancelOrderFlag>
+		<JobNumber>-1849843</JobNumber>
+		<UseSellPrice>Y</UseSellPrice>
+		<Items>
+			<Item>
+				<ItemID>1</ItemID>
+				<MfgCode>APK</MfgCode>
+				<PartNum>C1456</PartNum>
+				<Qty>1</Qty>
+				<QtyOrder>1</QtyOrder>
+				<SellPrice>272.39</SellPrice>
+			</Item>
+		</Items>
+		<SoldTo>
+			<CompanyName>VELESTRUMF</CompanyName>
+			<Street>501 CRANBROOK</Street>
+			<City>LOCKPORT</City>
+			<State>IL</State>
+			<ZipCode>60333</ZipCode>
+			<Phone>6302061166</Phone>
+		</SoldTo>
+		<ShipTo>
+			<CompanyName>Jose Perales</CompanyName>
+			<LastName></LastName>
+			<Street>8436 NW 72ND ST</Street>
+			<City>MIAMI</City>
+			<State>fl</State>
+			<ZipCode>33166-2395</ZipCode>
+			<Phone>0013058059082</Phone>
+			<ResidentialDelivery>Y</ResidentialDelivery>
+		</ShipTo>
+		<ShipVia>F</ShipVia>
+	</SBCPartOrderRequest>
+	

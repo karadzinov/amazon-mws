@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>104-9133641-4273810</AmazonOrderID>
+<AmazonSessionID>104-9133641-4273810</AmazonSessionID>
+<OrderDate>2014-10-07T19:12:22-07:00</OrderDate>
+<OrderPostedDate>2014-10-07T19:12:22-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>lyc1y5f2gjxvm2k@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Gregorio Chavez</BuyerName>
+<BuyerPhoneNumber>7142770070</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Gregorio Chavez</Name>
+<AddressFieldOne>2529 S RITA WAY</AddressFieldOne>
+<City>SANTA ANA</City>
+<StateOrRegion>CALIFORNIA</StateOrRegion>
+<PostalCode>92704-5715</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>7142770070</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>00393103206002</AmazonOrderItemCode>
+<SKU>APKC1082</SKU>
+<Title>Approved Performance C1082 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">140.43</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-16.85</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

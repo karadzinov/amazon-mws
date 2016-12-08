@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>115-3780195-0413852</AmazonOrderID>
+<AmazonSessionID>115-3780195-0413852</AmazonSessionID>
+<OrderDate>2014-10-19T20:42:23-07:00</OrderDate>
+<OrderPostedDate>2014-10-19T20:42:23-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>93c73nbzb349x0l@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>jose ramirez</BuyerName>
+<BuyerPhoneNumber>2542177744</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>jose ramirez</Name>
+<AddressFieldOne>1304 W CLARK ST</AddressFieldOne>
+<City>BARTLETT</City>
+<StateOrRegion>TEXAS</StateOrRegion>
+<PostalCode>76511-4102</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>2542177744</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>51544611068570</AmazonOrderItemCode>
+<SKU>APKJ28096</SKU>
+<Title>Approved Performance J28096 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">224.53</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-26.94</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-20T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-21T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-23T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-28T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+<Message>
+<MessageID>2</MessageID>
+<OrderReport>
+<AmazonOrderID>108-7796747-5801041</AmazonOrderID>
+<AmazonSessionID>108-7796747-5801041</AmazonSessionID>
+<OrderDate>2014-10-19T20:42:43-07:00</OrderDate>
+<OrderPostedDate>2014-10-19T20:42:43-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>j5hpk4vqv5ptyp4@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>darrell austria</BuyerName>
+<BuyerPhoneNumber>8054047412</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>darrell austria</Name>
+<AddressFieldOne>1548 OLYMPIC ST</AddressFieldOne>
+<City>SIMI VALLEY</City>
+<StateOrRegion>CALIFORNIA</StateOrRegion>
+<PostalCode>93063-3137</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>8054047412</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>02356298072618</AmazonOrderItemCode>
+<SKU>APKJ30036R</SKU>
+<Title>Approved Performance J30036R - [Front &amp; Rear] Set Premium Performance Drilled and Slotted Brake Rotors</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">184.84</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-22.18</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-20T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-21T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-23T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-28T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>108-5585031-1475418</AmazonOrderID>
+<AmazonSessionID>108-5585031-1475418</AmazonSessionID>
+<OrderDate>2014-10-15T19:55:51-07:00</OrderDate>
+<OrderPostedDate>2014-10-15T19:55:51-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>6qsv4jtdyd4dpr3@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Luke Lehman</BuyerName>
+<BuyerPhoneNumber>2094078628</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Luke Lehman</Name>
+<AddressFieldOne>2115 FOOTHILL RANCH DR</AddressFieldOne>
+<City>TRACY</City>
+<StateOrRegion>CA</StateOrRegion>
+<PostalCode>95377-9273</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>2094078628</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>03567558004146</AmazonOrderItemCode>
+<SKU>APKG22466P</SKU>
+<Title>Approved Performance G22466P - [Front &amp; Rear] Set of Carbon Fiber Impregnated Brake Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">69.47</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-8.34</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-16T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-17T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-21T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-24T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

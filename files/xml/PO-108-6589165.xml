@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>108-6589165</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>APD1007-1</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>108-6589165</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-5775441</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>DMB</MfgCode>
+						<PartNum>J33482BR</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>114.28</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Max Walz - CO Commercial Roofing</CompanyName>
+				<LastName></LastName>
+				<Street>4200 N WEBER ST</Street>
+				<City>COLORADO SPRINGS</City>
+				<State>co</State>
+				<ZipCode>80907-4437</ZipCode>
+				<Phone>719-357-3578</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

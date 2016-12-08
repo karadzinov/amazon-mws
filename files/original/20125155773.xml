@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>116-0973870-0863447</AmazonOrderID>
+<AmazonSessionID>116-0973870-0863447</AmazonSessionID>
+<OrderDate>2014-10-06T08:16:23-07:00</OrderDate>
+<OrderPostedDate>2014-10-06T08:16:23-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>xdknkzqhv38pkx5@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Duane Johnson</BuyerName>
+<BuyerPhoneNumber>619-599-5875</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Duane Johnson</Name>
+<AddressFieldOne>5735 KEARNY VILLA RD # 103</AddressFieldOne>
+<City>SAN DIEGO</City>
+<StateOrRegion>CA</StateOrRegion>
+<PostalCode>92123-1138</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>619-599-5875</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>48023376207410</AmazonOrderItemCode>
+<SKU>APKJ33482R</SKU>
+<Title>Approved Performance J33482R - [Front Pair] Premium Performance Drilled and Slotted Disc Brake Rotors</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">138.11</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-16.57</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

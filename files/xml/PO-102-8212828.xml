@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>102-8212828</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>error</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>102-8212828</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-6261047</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>BGI</MfgCode>
+						<PartNum>5BLACK</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>6.99</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Carlos Alfredo</CompanyName>
+				<LastName></LastName>
+				<Street>35 CHICHESTER AVE</Street>
+				<City>CENTER MORICHES</City>
+				<State>ny</State>
+				<ZipCode>11934-2401</ZipCode>
+				<Phone>6318751299</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

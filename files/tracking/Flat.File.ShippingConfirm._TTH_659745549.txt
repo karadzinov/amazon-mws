@@ -1,0 +1,4 @@
+order-id	order-item-id	quantity	ship-date	carrier-code	carrier-name	tracking-number	ship-method
+115-5428344-3311401	15731200682754	1	2014-10-19	FedEx		USPS First Class	Home
+102-1076713-3419464	30045491898890	1	2014-10-20	FedEx		USPS First Class	Home
+115-5502052-8097062	27002986094434	1	2014-10-20	FedEx		USPS First Class	Home

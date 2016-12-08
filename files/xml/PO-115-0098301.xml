@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<SBCPartOrderRequest>
+		<TrackingInfo>
+			<TrackNum>115-0098301</TrackNum>
+		</TrackingInfo>
+		<BuyerInfo>
+			<CustomerID>APD1001</CustomerID>
+			<Password>9265</Password>
+		</BuyerInfo>
+		<SellingStore>1</SellingStore>
+		<PONum>115-0098301</PONum>
+		<CancelOrderFlag>N</CancelOrderFlag>
+		<JobNumber>-0645845</JobNumber>
+		<UseSellPrice>Y</UseSellPrice>
+		<Items>
+			<Item>
+				<ItemID>1</ItemID>
+				<MfgCode>APE</MfgCode>
+				<PartNum>E5244E</PartNum>
+				<Qty>1</Qty>
+				<QtyOrder>1</QtyOrder>
+				<SellPrice>115.70</SellPrice>
+			</Item>
+		</Items>
+		<SoldTo>
+			<CompanyName>VELESTRUMF</CompanyName>
+			<Street>501 CRANBROOK</Street>
+			<City>LOCKPORT</City>
+			<State>IL</State>
+			<ZipCode>60333</ZipCode>
+			<Phone>6302061166</Phone>
+		</SoldTo>
+		<ShipTo>
+			<CompanyName>mohamed bouziane</CompanyName>
+			<LastName></LastName>
+			<Street>1614 FREBIS AVE</Street>
+			<City>COLUMBUS</City>
+			<State>oh</State>
+			<ZipCode>43206-3725</ZipCode>
+			<Phone>614 999 3483</Phone>
+			<ResidentialDelivery>Y</ResidentialDelivery>
+		</ShipTo>
+		<ShipVia>F</ShipVia>
+	</SBCPartOrderRequest>
+	

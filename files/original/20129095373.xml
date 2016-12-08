@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>107-4764297-4197051</AmazonOrderID>
+<AmazonSessionID>107-4764297-4197051</AmazonSessionID>
+<OrderDate>2014-10-06T11:17:04-07:00</OrderDate>
+<OrderPostedDate>2014-10-06T11:17:04-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>gz5vw4d2s17y96t@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Jodi Pannizzo</BuyerName>
+<BuyerPhoneNumber>6318216769</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Jodi Pannizzo</Name>
+<AddressFieldOne>336 Locust Drive</AddressFieldOne>
+<City>Rocky Point</City>
+<StateOrRegion>NY</StateOrRegion>
+<PostalCode>11778</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>6318216769</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>63003886070002</AmazonOrderItemCode>
+<SKU>APKJ33482R</SKU>
+<Title>Approved Performance J33482R - [Front Pair] Premium Performance Drilled and Slotted Disc Brake Rotors</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">138.11</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-16.57</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

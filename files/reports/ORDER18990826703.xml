@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>104-5862681-2254652</AmazonOrderID>
+<AmazonSessionID>104-5862681-2254652</AmazonSessionID>
+<OrderDate>2014-08-22T06:21:03-07:00</OrderDate>
+<OrderPostedDate>2014-08-22T06:21:03-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>4bq9jc13d89xlps@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>KIT CHAN</BuyerName>
+<BuyerPhoneNumber>408-892-3431</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>KIT CHAN</Name>
+<AddressFieldOne>132 SYCAMORE ST</AddressFieldOne>
+<City>FREMONT</City>
+<StateOrRegion>CA</StateOrRegion>
+<PostalCode>94536-1739</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>510-818-0890</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>69919658683314</AmazonOrderItemCode>
+<SKU>APKC1824P</SKU>
+<Title>Approved Performance C1824P - [Rear] Set of Carbon Fiber Impregnated Brake Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">37.15</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-4.46</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

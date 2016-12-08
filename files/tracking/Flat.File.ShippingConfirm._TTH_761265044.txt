@@ -1,0 +1,3 @@
+order-id	order-item-id	quantity	ship-date	carrier-code	carrier-name	tracking-number	ship-method
+105-6454493-5324233	49248263046450	1	2014-10-13	FedEx		604120822654	Home
+106-2826406-0934642	29077399587162	1	2014-10-13	FedEx		604120822595	Home

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>104-5293071</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>error</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>104-5293071</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-4367466</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>BGS</MfgCode>
+						<PartNum>4Black</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>9.49</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Mark Kalstrom</CompanyName>
+				<LastName></LastName>
+				<Street>22 SUMMIT WAY SW</Street>
+				<City>ROANOKE</City>
+				<State>va</State>
+				<ZipCode>24014-5154</ZipCode>
+				<Phone>5403123860</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

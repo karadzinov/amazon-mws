@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>106-5171691-2307459</AmazonOrderID>
+<AmazonSessionID>106-5171691-2307459</AmazonSessionID>
+<OrderDate>2014-08-23T14:36:41-07:00</OrderDate>
+<OrderPostedDate>2014-08-23T14:36:41-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>rw3dz9lz5l84mdd@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>GEORGE GARRETT</BuyerName>
+<BuyerPhoneNumber>4154907850</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>george garrett</Name>
+<AddressFieldOne>576 BRIGHT ST</AddressFieldOne>
+<City>SAN FRANCISCO</City>
+<StateOrRegion>CALIFORNIA</StateOrRegion>
+<PostalCode>94132-2804</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>4154907850</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>40436662642890</AmazonOrderItemCode>
+<SKU>APKG21672P</SKU>
+<Title>Approved Performance G21672P - [Front] Set of Carbon Fiber Impregnated Brake Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">36.44</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-4.37</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

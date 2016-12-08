@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>108-4902982-5566633</AmazonOrderID>
+<AmazonSessionID>108-4902982-5566633</AmazonSessionID>
+<OrderDate>2014-10-07T07:36:13-07:00</OrderDate>
+<OrderPostedDate>2014-10-07T07:36:13-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>6qk6bsmls53gk48@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>jajuan williams</BuyerName>
+<BuyerPhoneNumber>5189537739</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>jajuan williams</Name>
+<AddressFieldOne>29 MAPLERIDGE AVE</AddressFieldOne>
+<City>ALBANY</City>
+<StateOrRegion>NY</StateOrRegion>
+<PostalCode>12209-1419</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>5189537739</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>37162045603970</AmazonOrderItemCode>
+<SKU>APEJ27366E</SKU>
+<Title>Approved Performance J27366 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Ceramic Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">222.50</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-26.70</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+<Message>
+<MessageID>2</MessageID>
+<OrderReport>
+<AmazonOrderID>102-5977935-3719406</AmazonOrderID>
+<AmazonSessionID>102-5977935-3719406</AmazonSessionID>
+<OrderDate>2014-10-07T07:42:31-07:00</OrderDate>
+<OrderPostedDate>2014-10-07T07:42:31-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>q6m8w986j02fz6r@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Naveed Husnain</BuyerName>
+<BuyerPhoneNumber>307-462-4459</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Naveed Husnain</Name>
+<AddressFieldOne>2616 CACHE VALLEY DR</AddressFieldOne>
+<City>ROCK SPRINGS</City>
+<StateOrRegion>WYOMING</StateOrRegion>
+<PostalCode>82901-7283</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>307-462-4459</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>04021048306682</AmazonOrderItemCode>
+<SKU>APEJ30712E</SKU>
+<Title>Approved Performance J30712 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Ceramic Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">104.40</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-12.53</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

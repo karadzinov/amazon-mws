@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>112-8564216-2964260</AmazonOrderID>
+<AmazonSessionID>112-8564216-2964260</AmazonSessionID>
+<OrderDate>2014-10-09T11:22:22-07:00</OrderDate>
+<OrderPostedDate>2014-10-09T11:22:22-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>b3j2w07t4g43zqb@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Fredrick Phillips</BuyerName>
+<BuyerPhoneNumber>001-901-413-7873</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Fredrick Phillips</Name>
+<AddressFieldOne>8656 CEDAR FARMS DR</AddressFieldOne>
+<City>CORDOVA</City>
+<StateOrRegion>TN</StateOrRegion>
+<PostalCode>38016-6139</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>001-901-413-7873</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>56842365215122</AmazonOrderItemCode>
+<SKU>APKG21196</SKU>
+<Title>Approved Performance G21196 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">344.80</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-41.38</Amount>
+</Fee>
+</ItemFees>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-10T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-14T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-16T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-21T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

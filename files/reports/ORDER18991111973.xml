@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>113-5397338-9517011</AmazonOrderID>
+<AmazonSessionID>113-5397338-9517011</AmazonSessionID>
+<OrderDate>2014-08-22T06:27:11-07:00</OrderDate>
+<OrderPostedDate>2014-08-22T06:27:11-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>tlgw3hm0rjy5mnz@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>ERIKKA HOPKINS</BuyerName>
+<BuyerPhoneNumber>5407697205</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>ERIKKA B HOPKINS</Name>
+<AddressFieldOne>11880 PINE FOREST RD</AddressFieldOne>
+<City>COPPER HILL</City>
+<StateOrRegion>VA</StateOrRegion>
+<PostalCode>24079</PostalCode>
+<CountryCode>US</CountryCode>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>28421819836186</AmazonOrderItemCode>
+<SKU>APKC1012</SKU>
+<Title>Approved Performance C1012 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">97.98</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-11.76</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+<Message>
+<MessageID>2</MessageID>
+<OrderReport>
+<AmazonOrderID>108-0020553-8054662</AmazonOrderID>
+<AmazonSessionID>108-0020553-8054662</AmazonSessionID>
+<OrderDate>2014-08-22T06:23:50-07:00</OrderDate>
+<OrderPostedDate>2014-08-22T06:23:50-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>b4p51xhb4fwhxr2@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Paul Perry</BuyerName>
+<BuyerPhoneNumber>7166770411</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Paul Perry</Name>
+<AddressFieldOne>3708 Clinton St</AddressFieldOne>
+<City>West Seneca</City>
+<StateOrRegion>NY</StateOrRegion>
+<PostalCode>14224-1502</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>7166770411</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>52527550581138</AmazonOrderItemCode>
+<SKU>APKG20922</SKU>
+<Title>Approved Performance G20922 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">154.39</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-18.53</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

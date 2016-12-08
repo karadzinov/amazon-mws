@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>104-2953660-9109004</AmazonOrderID>
+<AmazonSessionID>104-2953660-9109004</AmazonSessionID>
+<OrderDate>2014-10-10T23:11:31-07:00</OrderDate>
+<OrderPostedDate>2014-10-10T23:11:31-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>j8ktqfjz8vxk96l@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>DIEGO R GOMEZ</BuyerName>
+<BuyerPhoneNumber>2243080356</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>diego r gomez</Name>
+<AddressFieldOne>704 W ROLLINS RD APT A</AddressFieldOne>
+<City>ROUND LAKE</City>
+<StateOrRegion>IL</StateOrRegion>
+<PostalCode>60073-1271</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>2243080356</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>29677484265546</AmazonOrderItemCode>
+<SKU>APEC1456E</SKU>
+<Title>Approved Performance C1456 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Ceramic Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">255.62</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-30.67</Amount>
+</Fee>
+</ItemFees>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-14T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-15T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-17T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-22T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

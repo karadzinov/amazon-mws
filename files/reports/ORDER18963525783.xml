@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>102-4562908-4573062</AmazonOrderID>
+<AmazonSessionID>102-4562908-4573062</AmazonSessionID>
+<OrderDate>2014-08-21T04:36:44-07:00</OrderDate>
+<OrderPostedDate>2014-08-21T04:36:44-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>qrmvzds5fmqc9rt@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Yure Adame</BuyerName>
+<BuyerPhoneNumber>6268569098</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Yure Adame</Name>
+<AddressFieldOne>15024 GALE AVE</AddressFieldOne>
+<City>HACIENDA HEIGHTS</City>
+<StateOrRegion>CA</StateOrRegion>
+<PostalCode>91745-1432</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>6268569098</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>48920636945770</AmazonOrderItemCode>
+<SKU>APKJ26262R</SKU>
+<Title>Approved Performance J26262R - [Front Pair] Premium Performance Drilled and Slotted Disc Brake Rotors</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">74.06</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-8.89</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/07/30 14-45-14-454</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

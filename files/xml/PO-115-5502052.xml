@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+		<SBCPartOrderRequest>
+			<TrackingInfo>
+				<TrackNum>115-5502052</TrackNum>
+			</TrackingInfo>
+			<BuyerInfo>
+				<CustomerID>error</CustomerID>
+				<Password>9265</Password>
+			</BuyerInfo>
+			<SellingStore>1</SellingStore>
+			<PONum>115-5502052</PONum>
+			<CancelOrderFlag>N</CancelOrderFlag>
+			<JobNumber>-8097062</JobNumber>
+			<UseSellPrice>Y</UseSellPrice>
+			<Items>
+				<Item>
+						<ItemID>1</ItemID>
+						<MfgCode>BGS</MfgCode>
+						<PartNum>4Char</PartNum>
+						<Qty>1</Qty>
+						<QtyOrder>1</QtyOrder>
+						<SellPrice>10.99</SellPrice>
+				</Item>
+			</Items>
+			<SoldTo>
+				<CompanyName>VELESTRUMF</CompanyName>
+				<Street>501 CRANBROOK</Street>
+				<City>LOCKPORT</City>
+				<State>IL</State>
+				<ZipCode>60333</ZipCode>
+				<Phone>6302061166</Phone>
+			</SoldTo>
+			<ShipTo>
+				<CompanyName>Randall  Pearson</CompanyName>
+				<LastName></LastName>
+				<Street>205 Cambridge Ave</Street>
+				<City>waukesha</City>
+				<State>wi</State>
+				<ZipCode>53188</ZipCode>
+				<Phone>4142417636</Phone>
+				<ResidentialDelivery>Y</ResidentialDelivery>
+			</ShipTo>
+			<ShipVia>F</ShipVia>
+		</SBCPartOrderRequest>
+		

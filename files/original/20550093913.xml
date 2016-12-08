@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>102-8212828-6261047</AmazonOrderID>
+<AmazonSessionID>102-8212828-6261047</AmazonSessionID>
+<OrderDate>2014-10-22T18:34:54-07:00</OrderDate>
+<OrderPostedDate>2014-10-22T18:34:54-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>8hc2r53g10k813d@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>Carlos Alfredo</BuyerName>
+<BuyerPhoneNumber>6318751299</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Carlos Alfredo</Name>
+<AddressFieldOne>35 CHICHESTER AVE</AddressFieldOne>
+<City>CENTER MORICHES</City>
+<StateOrRegion>NY</StateOrRegion>
+<PostalCode>11934-2401</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>6318751299</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>24511478123578</AmazonOrderItemCode>
+<SKU>BGI5BLACK</SKU>
+<Title>Body Glove 9299103 Diamond Cell Phone Case for Apple iPhone 5 - 1 Pack - Retail Packaging - Black/Charcoal</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">6.99</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-1.05</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-23T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-23T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-28T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-30T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

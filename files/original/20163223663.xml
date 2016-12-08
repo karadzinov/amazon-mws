@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>113-9791065-9137014</AmazonOrderID>
+<AmazonSessionID>113-9791065-9137014</AmazonSessionID>
+<OrderDate>2014-10-07T17:51:24-07:00</OrderDate>
+<OrderPostedDate>2014-10-07T17:51:24-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>1ynrrxjj1tqtdmd@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>MIRIAM GIL</BuyerName>
+<BuyerPhoneNumber>7575935636</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>Miriam Gil</Name>
+<AddressFieldOne>2658 N Armistead Ave</AddressFieldOne>
+<AddressFieldTwo>Apt L4</AddressFieldTwo>
+<City>Hampton</City>
+<StateOrRegion>Virginia</StateOrRegion>
+<PostalCode>23666</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>7575935636</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>33907748553154</AmazonOrderItemCode>
+<SKU>APEE5244E</SKU>
+<Title>Approved Performance E5244 - [Rear Kit] Premium Performance Drilled/Slotted Brake Rotors and Ceramic Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">111.71</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-13.41</Amount>
+</Fee>
+</ItemFees>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

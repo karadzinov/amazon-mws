@@ -1,0 +1,2 @@
+order-id	order-item-id	quantity	ship-date	carrier-code	carrier-name	tracking-number	ship-method
+113-7880657-6415458	24490775129698	1	2014-10-17	FedEx		604120823694	Home

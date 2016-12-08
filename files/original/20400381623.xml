@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>110-7169250-2489015</AmazonOrderID>
+<AmazonSessionID>110-7169250-2489015</AmazonSessionID>
+<OrderDate>2014-10-16T21:41:14-07:00</OrderDate>
+<OrderPostedDate>2014-10-16T21:41:14-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>xb5fy38xvcwvq3p@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>karla boucher</BuyerName>
+<BuyerPhoneNumber>510-3947834</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>karla boucher</Name>
+<AddressFieldOne>1016 REDHAWK CT</AddressFieldOne>
+<City>RICHMOND</City>
+<StateOrRegion>CA</StateOrRegion>
+<PostalCode>94806-5842</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>510-3947834</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>13699353662290</AmazonOrderItemCode>
+<SKU>APKJ27242</SKU>
+<Title>Approved Performance J27242 - [Front Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">103.56</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-12.43</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-17T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-20T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-22T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-27T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>

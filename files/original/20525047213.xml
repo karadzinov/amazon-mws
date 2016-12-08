@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+<DocumentVersion>1.01</DocumentVersion>
+<MerchantIdentifier>M_PERFORMANC_1579272</MerchantIdentifier>
+</Header>
+<MessageType>OrderReport</MessageType>
+<Message>
+<MessageID>1</MessageID>
+<OrderReport>
+<AmazonOrderID>110-4525548-0132214</AmazonOrderID>
+<AmazonSessionID>110-4525548-0132214</AmazonSessionID>
+<OrderDate>2014-10-21T20:02:08-07:00</OrderDate>
+<OrderPostedDate>2014-10-21T20:02:08-07:00</OrderPostedDate>
+<BillingData>
+<BuyerEmailAddress>kr9c04tlq0lyl87@marketplace.amazon.com</BuyerEmailAddress>
+<BuyerName>KIM RAY</BuyerName>
+<BuyerPhoneNumber>240-585-7290</BuyerPhoneNumber>
+</BillingData>
+<FulfillmentData>
+<FulfillmentMethod>Ship</FulfillmentMethod>
+<FulfillmentServiceLevel>Standard</FulfillmentServiceLevel>
+<Address>
+<Name>KIM RAY</Name>
+<AddressFieldOne>11658 MUSTANG CREEK CT</AddressFieldOne>
+<City>WALDORF</City>
+<StateOrRegion>MARYLAND</StateOrRegion>
+<PostalCode>20602-4173</PostalCode>
+<CountryCode>US</CountryCode>
+<PhoneNumber>240-585-7290</PhoneNumber>
+</Address>
+</FulfillmentData>
+<Item>
+<AmazonOrderItemCode>08209778624418</AmazonOrderItemCode>
+<SKU>APKJ34656</SKU>
+<Title>Approved Performance J34656 - [Front &amp; Rear Kit] Performance Drilled/Slotted Brake Rotors and Carbon Fiber Pads</Title>
+<Quantity>1</Quantity>
+<ProductTaxCode>A_GEN_TAX</ProductTaxCode>
+<ItemPrice>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">222.07</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Tax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>ShippingTax</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</ItemPrice>
+<ItemFees>
+<Fee>
+<Type>Commission</Type>
+<Amount currency="USD">-26.65</Amount>
+</Fee>
+</ItemFees>
+<Promotion>
+<PromotionClaimCode>_SITE_WIDE_</PromotionClaimCode>
+<MerchantPromotionID>US Free Shipping 2014/10/11 17-37-8-959</MerchantPromotionID>
+<Component>
+<Type>Principal</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+<Component>
+<Type>Shipping</Type>
+<Amount currency="USD">0.00</Amount>
+</Component>
+</Promotion>
+<ExpectedShipDateRange>
+<EarliestShipDate>2014-10-22T00:00:00-07:00</EarliestShipDate>
+<LatestShipDate>2014-10-23T23:59:59-07:00</LatestShipDate>
+</ExpectedShipDateRange>
+<ExpectedDeliveryDateRange>
+<EarliestDeliveryDate>2014-10-27T00:00:00-07:00</EarliestDeliveryDate>
+<LatestDeliveryDate>2014-10-30T23:59:59-07:00</LatestDeliveryDate>
+</ExpectedDeliveryDateRange>
+</Item>
+</OrderReport>
+</Message>
+</AmazonEnvelope>
